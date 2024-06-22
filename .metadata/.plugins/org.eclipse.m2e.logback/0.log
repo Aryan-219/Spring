@@ -391,3 +391,6 @@
 2024-06-21 00:33:18,824 [Worker-83: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Programming\Spring\springcore\src\test\resources
 2024-06-21 00:36:50,777 [Worker-87: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Programming\Spring\springcore\src\main\resources
 2024-06-21 00:36:50,780 [Worker-87: Launching App] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Programming\Spring\springcore\src\test\resources
+2024-06-22 16:12:54,228 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-06-22 16:14:33,360 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Programming\Spring\springcore\src\main\resources
+2024-06-22 16:14:33,367 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Programming\Spring\springcore\src\test\resources
